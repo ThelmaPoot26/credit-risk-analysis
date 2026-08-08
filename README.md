@@ -155,7 +155,7 @@ Puedes consultar directamente los principales entregables del proyecto:
 
 - [**Dashboard de Power BI**](Dashboard/Credit_Risk_Dashboard.pbix) — Dashboard interactivo con KPIs, factores de riesgo y perfil del cliente.
 
-- [**Presentación ejecutiva**](Presentación/Análisis%20Exploratorio%20de%20Riesgo%20Crediticio%20.pdf) — Presentación de hallazgos, insights y recomendaciones.
+- [**Presentación ejecutiva**](Presentación/Análisis%20Exploratorio%20de%20Riesgo%20Crediticio.pdf) — Síntesis de hallazgos, insights y recomendaciones.
 
 - [**Dataset**](Data/credit_risk_dataset.csv) — Conjunto de datos utilizado durante el análisis.
 
